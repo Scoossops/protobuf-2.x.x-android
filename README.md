@@ -10,6 +10,7 @@ cd protobuf-2.x.x-android
 
 or
 
-``
+```
+cd protobuf-2.x.x-android
 ndk-build -j8
-``
+```
